@@ -5,3 +5,5 @@ Console.WriteLine("Hello, World!");
 //Changes 
 
 //solve task2
+
+//solve task1
