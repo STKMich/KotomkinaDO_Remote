@@ -22,4 +22,4 @@ namespace KotomkinaDO
 
 //Changes 
 
-
+//solve task3
