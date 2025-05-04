@@ -3,3 +3,5 @@ Console.WriteLine("Hello, World!");
 //KotomkinaDO Am-1-24
 
 //Changes 
+
+//solve task2
